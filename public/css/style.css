@@ -196,6 +196,14 @@ a {
 
 .landing-header {
     width: 900px;
+}
+
+.landing-browser {
+    width: 1400px;
+    height: 600px;
+}
+
+.landing-container {
     background-color: transparent;
     backdrop-filter: blur(10px);
     border-radius: 15px;
@@ -260,6 +268,10 @@ a {
     padding-top: 100px;
 }
 
+.pd-top-125 {
+    padding-top: 125px;
+}
+
 .pd-bottom-25 {
     padding-bottom: 25px;
 }
@@ -274,6 +286,10 @@ a {
 
 .pd-bottom-100 {
     padding-bottom: 100px;
+}
+
+.pd-bottom-125 {
+    padding-bottom: 125px;
 }
 
 .ff-Varino{

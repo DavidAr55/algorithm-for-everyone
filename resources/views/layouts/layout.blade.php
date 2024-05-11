@@ -23,7 +23,7 @@
 <body>
     <nav class="navbar" id="navbar">
         <div class="colum-nav">
-            <h3 class="ff-Varino fs-25"><a href="home" class="button-title">ALGORITHM FOR EVERYONE</a></h3>
+            <h3 class="ff-Varino fs-25"><a href="home" class="button-title"><span class="color-1">A</span>LGORITHM <span class="color-1">F</span>OR <span class="color-1">E</span>VERYONE</a></h3>
         </div>
         <div class="colum-nav">
             <div class="container-nav-options">
